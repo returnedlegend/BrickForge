@@ -27,6 +27,16 @@
       "$properties": {
         "FilteringEnabled": true
       },
+      "RojoSyncDemo": {
+        "$className": "Part",
+        "$properties": {
+          "Anchored": true,
+          "Color": [0, 1, 0.5],
+          "Material": "Neon",
+          "Position": [0, 6, -15],
+          "Size": [8, 8, 8]
+        }
+      },
       "Baseplate": {
         "$className": "Part",
         "$properties": {
